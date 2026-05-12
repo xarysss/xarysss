@@ -135,6 +135,48 @@ Working on:
 
 ---
 
+# 🧠 AI & Advanced Development Tools
+
+Experienced with modern AI-assisted development and infrastructure tooling.
+
+## AI Engineering & Coding Assistants
+
+![Claude](https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge)
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge)
+![OpenAI](https://img.shields.io/badge/OpenAI_Codex-412991?style=for-the-badge&logo=openai)
+![LM Studio](https://img.shields.io/badge/LM_Studio-111111?style=for-the-badge)
+![AnythingLLM](https://img.shields.io/badge/AnythingLLM-6C47FF?style=for-the-badge)
+![OpenCode](https://img.shields.io/badge/OpenCode-0A0A0A?style=for-the-badge)
+![OpenClaw](https://img.shields.io/badge/OpenClaw-202020?style=for-the-badge)
+
+Using AI tools for:
+- Infrastructure automation
+- DevOps workflows
+- Code generation & review
+- Security research
+- Documentation
+- Full-stack development
+- Rapid prototyping
+- System orchestration
+- Workflow optimization
+
+## AI Workflow Ecosystem
+
+- Claude Code
+- Cursor IDE
+- OpenAI Codex
+- Antigravity
+- LM Studio
+- AnythingLLM
+- OpenCode
+- OpenClaw
+- Local LLM environments
+- AI-assisted scripting
+- AI debugging & architecture design
+
+---
+
+
 # 🏢 Internship Experience
 
 ## DGFIP — French Public Finance Administration
