@@ -157,13 +157,13 @@ Worked on:
 
 # 📊 GitHub Stats
 
-<div align="center">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=xarysss&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+</p>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=xarysss&show_icons=true&theme=tokyonight"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xarysss&layout=compact&theme=tokyonight"/>
-
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xarysss&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" />
+</p>
 
 ---
 
@@ -176,6 +176,7 @@ Worked on:
 # 📫 Contact
 
 📧 titouan.mouysset@etu.umontpellier.fr
+📧 titouanmouysset@gmail.com
 
 🌍 France
 
