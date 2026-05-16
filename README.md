@@ -26,14 +26,6 @@ Currently a second-year student in Networks & Telecommunications at IUT Béziers
 
 I work on infrastructure, cloud environments, monitoring systems, automation and cybersecurity-oriented projects.
 
-I enjoy building real technical projects mixing:
-- Linux servers
-- Docker infrastructures
-- Monitoring stacks
-- Networking
-- Automation
-- Cybersecurity
-- Web platforms
 
 ---
 
@@ -57,16 +49,6 @@ I enjoy building real technical projects mixing:
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark)
 ![OpenVPN](https://img.shields.io/badge/OpenVPN-EA7E20?style=for-the-badge&logo=openvpn)
 
-- VLAN
-- OSPF
-- RIP
-- BGP
-- NAT
-- ACL
-- VPN
-- ToIP
-- LoRaWAN
-- Network segmentation
 
 ---
 
@@ -195,28 +177,12 @@ Worked on:
 - Secure disk wiping
 - Infrastructure maintenance
 
----
-
-# 🔥 Contribution Graph
-
-[![Titouan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=xarysss&theme=tokyo-night)](https://github.com/xarysss)
-
----
-
 # 📫 Contact
 
 📧 titouan.mouysset@etu.umontpellier.fr
 📧 titouanmouysset@gmail.com
 
 🌍 France
-
 💼 LinkedIn:
 https://www.linkedin.com/in/titouan-mouysset/
 
----
-
-<div align="center">
-
-### ⚡ Building infrastructure, automation & cybersecurity projects.
-
-</div>
